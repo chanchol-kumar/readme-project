@@ -104,7 +104,7 @@ __This is bold__
 
 
 <!--problem : not showing title bar-->
-<img src="./image/me.jpg" width="300" title="profile image"/> 
+<img src="./me.jpg" width="300" title="profile image"/> 
 <!--problem : not showing title bar-->
 
 <br/>
