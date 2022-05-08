@@ -86,17 +86,17 @@ __This is bold__
 
 <br/>
 
-### automatic book
+### automatic link
 <https://web.facebook.com/chanchol.kumar.182/>
 
 <br/>
 
-### disable book
+### disable link
 `<https://web.facebook.com/chanchol.kumar.182/>`
 
 <br/>
 
-### markdown link book
+### markdown link
 [chanchol kumar](<https://web.facebook.com/chanchol.kumar.182/>)
 
 <br/>
