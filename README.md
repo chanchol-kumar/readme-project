@@ -32,7 +32,9 @@ _This is italic_
 
 __This is bold__
 
- this is **strong** word
+ this is **strong** word 
+ <br/>
+
 ~~This is delete/strikethrough massage~~
 
 ### This is inline
