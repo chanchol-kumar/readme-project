@@ -82,7 +82,7 @@ __This is bold__
 
 - [x] food
 - [x] book
-- [] laptop
+- [x] laptop
 
 <br/>
 
