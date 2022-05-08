@@ -1,24 +1,18 @@
 <!--markdown tutort-->
 
 ### line break
----
+
 this is 1st line <br/>
 this is 2nd line
 
 ### markdown heading 
----
 
-# chanchol
-
-## chanchol
-
-### chanchol
-
-#### chanchol
-
-##### chanchol
-
-###### chanchol
+# chanchol<br/>
+## chanchol<br/>
+### chanchol<br/>
+#### chanchol<br/>
+##### chanchol<br/>
+###### chanchol<br/>
 
 <br/>
 
